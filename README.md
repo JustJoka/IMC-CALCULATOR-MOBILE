@@ -57,4 +57,4 @@ Valor numérico do IMC (1 casa decimal)<br>
 Classificação conforme tabela OMS<br>
 <br>
 <br>
-![Preview](https://github.com/JustJoka/IMC-CALCULATOR-MOBILE/blob/main/mini-projeto-de-imc/Images/Screenshot%202025-12-04%20121019.png?raw=true)
+![Preview](https://github.com/JustJoka/IMC-CALCULATOR-MOBILE/blob/main/mini-projeto-de-imc/Images/Screenshot%202025-12-04%20121019.png?raw=true) ![Preview](https://github.com/JustJoka/IMC-CALCULATOR-MOBILE/blob/main/mini-projeto-de-imc/Images/Screenshot%202025-12-04%20121048.png?raw=true)
